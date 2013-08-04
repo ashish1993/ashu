@@ -21,15 +21,6 @@ limitations under the License.
     android:background="@color/dark_red"
     android:padding="8dip"
     >
-<TextView  
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:text="@string/activity_c_label"
-    android:gravity="center_horizontal"
-    android:textSize="@dimen/font_large"
-    android:textColor="@color/light_red"
-    android:paddingBottom="16dip"
-    />
 
 
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
